@@ -100,15 +100,15 @@ Basic_Website/
 ------------------------------------
 # **Acknowledgments**
   Inspired by modern web design trends.
-  Built with ❤️ by [Your Name].
+  Built with ❤️ by Pushpika Odisha
 
 ------------------------------------
 # **Contact**
   For any questions or feedback, feel free to reach out:
 
-      Email: your-email@example.com
-      GitHub: your-username
-      Website: Your Website
+      Email: pushpikaodisha.tech@gmail.com
+      GitHub: pushpikaodisha
+      Website: ----------------
 
 Enjoy using Basic_Website! 🚀
 
